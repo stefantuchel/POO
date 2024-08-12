@@ -1,0 +1,39 @@
+C:\Users\popan\source\repos\Proiect 2\bin\Debug\Proiect 2.exe.config
+C:\Users\popan\source\repos\Proiect 2\bin\Debug\Proiect 2.exe
+C:\Users\popan\source\repos\Proiect 2\bin\Debug\Proiect 2.pdb
+C:\Users\popan\source\repos\Proiect 2\obj\Debug\Proiect 2.csprojAssemblyReference.cache
+C:\Users\popan\source\repos\Proiect 2\obj\Debug\Proiect_2.Form1.resources
+C:\Users\popan\source\repos\Proiect 2\obj\Debug\Proiect_2.Properties.Resources.resources
+C:\Users\popan\source\repos\Proiect 2\obj\Debug\Proiect 2.csproj.GenerateResource.cache
+C:\Users\popan\source\repos\Proiect 2\obj\Debug\Proiect 2.csproj.CoreCompileInputs.cache
+C:\Users\popan\source\repos\Proiect 2\obj\Debug\Proiect 2.exe
+C:\Users\popan\source\repos\Proiect 2\obj\Debug\Proiect 2.pdb
+C:\Users\crist\OneDrive\Desktop\Proiect 2\bin\Debug\Proiect 2.exe.config
+C:\Users\crist\OneDrive\Desktop\Proiect 2\bin\Debug\Proiect 2.exe
+C:\Users\crist\OneDrive\Desktop\Proiect 2\bin\Debug\Proiect 2.pdb
+C:\Users\crist\OneDrive\Desktop\Proiect 2\obj\Debug\Proiect 2.csprojAssemblyReference.cache
+C:\Users\crist\OneDrive\Desktop\Proiect 2\obj\Debug\Proiect_2.Form1.resources
+C:\Users\crist\OneDrive\Desktop\Proiect 2\obj\Debug\Proiect_2.Properties.Resources.resources
+C:\Users\crist\OneDrive\Desktop\Proiect 2\obj\Debug\Proiect 2.csproj.GenerateResource.cache
+C:\Users\crist\OneDrive\Desktop\Proiect 2\obj\Debug\Proiect 2.csproj.CoreCompileInputs.cache
+C:\Users\crist\OneDrive\Desktop\Proiect 2\obj\Debug\Proiect 2.exe
+C:\Users\crist\OneDrive\Desktop\Proiect 2\obj\Debug\Proiect 2.pdb
+C:\Users\crist\OneDrive\Desktop\Anul2, Semestrul 2\Programare orientata obiect\Proiect 2\bin\Debug\Proiect 2.exe.config
+C:\Users\crist\OneDrive\Desktop\Anul2, Semestrul 2\Programare orientata obiect\Proiect 2\bin\Debug\Proiect 2.exe
+C:\Users\crist\OneDrive\Desktop\Anul2, Semestrul 2\Programare orientata obiect\Proiect 2\bin\Debug\Proiect 2.pdb
+C:\Users\crist\OneDrive\Desktop\Anul2, Semestrul 2\Programare orientata obiect\Proiect 2\obj\Debug\Proiect 2.csproj.AssemblyReference.cache
+C:\Users\crist\OneDrive\Desktop\Anul2, Semestrul 2\Programare orientata obiect\Proiect 2\obj\Debug\Proiect_2.Form1.resources
+C:\Users\crist\OneDrive\Desktop\Anul2, Semestrul 2\Programare orientata obiect\Proiect 2\obj\Debug\Proiect_2.Properties.Resources.resources
+C:\Users\crist\OneDrive\Desktop\Anul2, Semestrul 2\Programare orientata obiect\Proiect 2\obj\Debug\Proiect 2.csproj.GenerateResource.cache
+C:\Users\crist\OneDrive\Desktop\Anul2, Semestrul 2\Programare orientata obiect\Proiect 2\obj\Debug\Proiect 2.csproj.CoreCompileInputs.cache
+C:\Users\crist\OneDrive\Desktop\Anul2, Semestrul 2\Programare orientata obiect\Proiect 2\obj\Debug\Proiect 2.exe
+C:\Users\crist\OneDrive\Desktop\Anul2, Semestrul 2\Programare orientata obiect\Proiect 2\obj\Debug\Proiect 2.pdb
+C:\Users\Stefan\Desktop\Proiect 2\bin\Debug\Proiect 2.exe.config
+C:\Users\Stefan\Desktop\Proiect 2\bin\Debug\Proiect 2.exe
+C:\Users\Stefan\Desktop\Proiect 2\bin\Debug\Proiect 2.pdb
+C:\Users\Stefan\Desktop\Proiect 2\obj\Debug\Proiect 2.csprojAssemblyReference.cache
+C:\Users\Stefan\Desktop\Proiect 2\obj\Debug\Proiect_2.Form1.resources
+C:\Users\Stefan\Desktop\Proiect 2\obj\Debug\Proiect_2.Properties.Resources.resources
+C:\Users\Stefan\Desktop\Proiect 2\obj\Debug\Proiect 2.csproj.GenerateResource.cache
+C:\Users\Stefan\Desktop\Proiect 2\obj\Debug\Proiect 2.exe
+C:\Users\Stefan\Desktop\Proiect 2\obj\Debug\Proiect 2.pdb
