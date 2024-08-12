@@ -1,0 +1,17 @@
+C:\Users\Stefan\Desktop\Facultate\POO\ProiectPOO\ProiectPOO\bin\Debug\netcoreapp3.1\ProiectPOO.exe
+C:\Users\Stefan\Desktop\Facultate\POO\ProiectPOO\ProiectPOO\bin\Debug\netcoreapp3.1\ProiectPOO.deps.json
+C:\Users\Stefan\Desktop\Facultate\POO\ProiectPOO\ProiectPOO\bin\Debug\netcoreapp3.1\ProiectPOO.runtimeconfig.json
+C:\Users\Stefan\Desktop\Facultate\POO\ProiectPOO\ProiectPOO\bin\Debug\netcoreapp3.1\ProiectPOO.runtimeconfig.dev.json
+C:\Users\Stefan\Desktop\Facultate\POO\ProiectPOO\ProiectPOO\bin\Debug\netcoreapp3.1\ProiectPOO.dll
+C:\Users\Stefan\Desktop\Facultate\POO\ProiectPOO\ProiectPOO\bin\Debug\netcoreapp3.1\ProiectPOO.pdb
+C:\Users\Stefan\Desktop\Facultate\POO\ProiectPOO\ProiectPOO\obj\Debug\netcoreapp3.1\VoicuStefanProiect.Form1.resources
+C:\Users\Stefan\Desktop\Facultate\POO\ProiectPOO\ProiectPOO\obj\Debug\netcoreapp3.1\VoicuStefanProiect.PopupForm.resources
+C:\Users\Stefan\Desktop\Facultate\POO\ProiectPOO\ProiectPOO\obj\Debug\netcoreapp3.1\ProiectPOO.Properties.Resources.resources
+C:\Users\Stefan\Desktop\Facultate\POO\ProiectPOO\ProiectPOO\obj\Debug\netcoreapp3.1\ProiectPOO.csproj.GenerateResource.cache
+C:\Users\Stefan\Desktop\Facultate\POO\ProiectPOO\ProiectPOO\obj\Debug\netcoreapp3.1\ProiectPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stefan\Desktop\Facultate\POO\ProiectPOO\ProiectPOO\obj\Debug\netcoreapp3.1\ProiectPOO.AssemblyInfoInputs.cache
+C:\Users\Stefan\Desktop\Facultate\POO\ProiectPOO\ProiectPOO\obj\Debug\netcoreapp3.1\ProiectPOO.AssemblyInfo.cs
+C:\Users\Stefan\Desktop\Facultate\POO\ProiectPOO\ProiectPOO\obj\Debug\netcoreapp3.1\ProiectPOO.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\Desktop\Facultate\POO\ProiectPOO\ProiectPOO\obj\Debug\netcoreapp3.1\ProiectPOO.dll
+C:\Users\Stefan\Desktop\Facultate\POO\ProiectPOO\ProiectPOO\obj\Debug\netcoreapp3.1\ProiectPOO.pdb
+C:\Users\Stefan\Desktop\Facultate\POO\ProiectPOO\ProiectPOO\obj\Debug\netcoreapp3.1\ProiectPOO.genruntimeconfig.cache
